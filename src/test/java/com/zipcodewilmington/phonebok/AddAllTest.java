@@ -1,4 +1,4 @@
-package com.zipcodewilmington.phonebook;
+package com.zipcodewilmington.phonebok;
 
 import org.junit.Assert;
 import org.junit.Test;
